@@ -20,7 +20,8 @@ To run the form locally:
    git clone https://github.com/Moksh1704/event_registration_form.git
 
 🧑‍💻 Technologies Used
---TML5 – Structure of the form
+
+--HTML5 – Structure of the form
 
 --PHP – Backend logic and database connection
 
